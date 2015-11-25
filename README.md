@@ -2,8 +2,8 @@
 
 consensusbasedmatchingandtracking_cmt_tracker-melvincabatuan created by Classroom for GitHub
 
-- Original algorithm came from Georg Nebehay and Roman Pflugfelder, "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking", CVPR 2015
-- Inspired by Jesus Ayuso's work here: https://github.com/ayuso2013/OpenCVSamples 
+- Original algorithm by Georg Nebehay and Roman Pflugfelder, "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking", CVPR 2015
+- This exercise is inspired by Jesus Ayuso's work here: https://github.com/ayuso2013/OpenCVSamples  (in Eclipse)
 
 ## Warning
 
